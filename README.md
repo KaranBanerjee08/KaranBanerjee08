@@ -10,9 +10,9 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=KaranBanerjee08&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=KaranBanerjee08&icon=0&color=5)](https://visitcount.itsvg.in)
+![Snake animation dark](https://raw.githubusercontent.com/KaranBanerjee08/KaranBanerjee08/output/github-snake-dark.svg#gh-dark-mode-only)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-![snake gif](https://github.com/KaranBanerjee08/KaranBanerjee08/blob/output/github-snake-dark.svg)
+
