@@ -10,7 +10,7 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=KaranBanerjee08&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-![Snake animation dark](https://raw.githubusercontent.com/KaranBanerjee08/KaranBanerjee08/output/github-snake-dark.svg#gh-dark-mode-only)
+![Snake animation dark](https://raw.githubusercontent.com/KaranBanerjee08/KaranBanerjee08/output/github-snake-dark.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
