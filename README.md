@@ -13,3 +13,6 @@
 [![](https://komarev.com/ghpvc/?username=KaranBanerjee08&icon=0&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+![snake gif](https://github.com/KaranBanerjee08/KaranBanerjee08/blob/output/github-snake-dark.svg)
